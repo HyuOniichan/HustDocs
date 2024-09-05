@@ -1,0 +1,27 @@
+{
+  "name": "hustdocs",
+  "version": "1.0.0",
+  "description": "docs about hust",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "npx json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyuOniichan/HustDocs.git"
+  },
+  "keywords": [
+    "hust",
+    "docs"
+  ],
+  "author": "Huy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyuOniichan/HustDocs/issues"
+  },
+  "homepage": "https://github.com/HyuOniichan/HustDocs#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.2"
+  }
+}
