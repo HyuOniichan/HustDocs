@@ -141,8 +141,32 @@
           "links": [
             {
               "id": "1",
-              "text": "fb page ",
+              "text": "fb page",
               "direct": "https://www.facebook.com/clbhthtbk"
+            }
+          ]
+        },
+        {
+          "id": "1725548518042",
+          "title": "Hội Sinh viên Đại học Bách khoa Hà Nội",
+          "content": "Hội Sinh viên",
+          "links": [
+            {
+              "id": "1",
+              "text": "fb page",
+              "direct": "https://www.facebook.com/hoisinhvienbkhn"
+            }
+          ]
+        },
+        {
+          "id": "1725549167174",
+          "title": "Đoàn Thanh niên - Trường CNTT",
+          "content": "Đoàn Thanh niên - Hội Sinh viên Trường Công nghệ Thông tin và Truyền thông",
+          "links": [
+            {
+              "id": "1",
+              "text": "fb page",
+              "direct": "https://www.facebook.com/soict.hust"
             }
           ]
         }

@@ -114,7 +114,6 @@ const app = {
                 .then(res => res.json()) 
                 .then(data => {
                     data.doc.push(body); 
-                    console.log(data); 
                     this.handleCreateData(createId, data); 
                 })
                 .catch(err => console.log(err)); 
