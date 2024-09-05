@@ -44,12 +44,39 @@
         </header>
 
         <main class="pt-3">
+
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
                     <li class="breadcrumb-item active" aria-current="page">Docs</li>
                 </ol>
             </nav>
-            <button type="button" class="btn btn-secondary mb-2 d-none" id="back">Back</button>
+
+            <div class="d-none bg-light p-4 mb-5" id="hideAction">
+                <button type="button" class="btn btn-secondary mb-2" id="back">Back</button>
+                <div>
+                    <h3>Create</h3>
+                    <form>
+                        <div class="mb-3">
+                            <label for="title" class="form-label">Title</label>
+                            <input class="form-control" id="title" aria-describedby="title">
+                        </div>
+                        <div class="mb-3">
+                            <label for="content" class="form-label">Content</label>
+                            <input class="form-control" id="content" aria-describedby="content">
+                        </div>
+                        <div class="mb-3">
+                            <label for="link-text" class="form-label">Link (Text)</label>
+                            <input class="form-control" id="link-text" aria-describedby="link-text">
+                        </div>
+                        <div class="mb-3">
+                            <label for="link-direct" class="form-label">Link (Direct)</label>
+                            <input class="form-control" id="link-direct" aria-describedby="link-direct">
+                        </div>
+                        <button class="btn btn-primary" id="submitBtn">Submit</button>
+                    </form>
+                </div>
+            </div>
+
             <div id="docsTypeList"></div>
             
             

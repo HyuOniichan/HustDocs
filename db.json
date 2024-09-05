@@ -1,153 +1,195 @@
 {
-    "docs": [
+  "docs": [
+    {
+      "id": "1",
+      "title": "Môn học đại cương",
+      "content": "Tài liệu các môn ĐC",
+      "doc": [
         {
-            "id": 1, 
-            "title": "Môn học đại cương", 
-            "content": "Tài liệu các môn ĐC", 
-            "doc": [
-              {
-                "id": 1, 
-                "title": "Web tài liệu hust all", 
-                "content": "Có full tài liệu (chắc thế)", 
-                "links": [
-                  {
-                    "id": 1, 
-                    "text": "tailieuhust", 
-                    "direct": "https://tailieuhust.com/" 
-                  }
-                ]
-              },
-              {
-                "id": 2, 
-                "title": "Đại số", 
-                "content": "giáo trình (tailieuhust) + ytb", 
-                "links": [
-                  {
-                    "id": 1, 
-                    "text": "giáo trình", 
-                    "direct": "https://drive.google.com/file/d/1coAstSRi6BRgVbdr1Mvfcg1ZE806sS2F/view" 
-                  }, 
-                  {
-                    "id": 2, 
-                    "text": "ytb: TOÁN CAO CẤP & GIẢI TRÍ", 
-                    "direct": "https://www.youtube.com/playlist?list=PLsyRn04YK2dHG_UeaxnQY12lRJ8sLt5H4" 
-                  } 
-                ]
-              },
-              {
-                "id": 3, 
-                "title": "Giải tích 1", 
-                "content": "giáo trình (tailieuhust) + ytb", 
-                "links": [
-                  {
-                    "id": 1, 
-                    "text": "giáo trình", 
-                    "direct": "https://drive.google.com/file/d/14pIV7KndQZKu-l6pME5HYt3GUeoyula5/view" 
-                  }, 
-                  {
-                    "id": 2, 
-                    "text": "ytb: Huster Channel", 
-                    "direct": "https://www.youtube.com/playlist?list=PLlX7racszQb4by9cDXEeRPj4Rj1AePZuq" 
-                  } 
-                ]
-              }, 
-              {
-                "id": 4, 
-                "title": "Tài liệu lớp Đại cương", 
-                "content": "Group hỗ trợ học tập bk", 
-                "links": [
-                  {
-                    "id": 1, 
-                    "text": "fb post", 
-                    "direct": "https://www.facebook.com/groups/hotrosinhvienontapdaicuong/posts/663523567660013/" 
-                  }, 
-                  {
-                    "id": 2, 
-                    "text": "gg drive", 
-                    "direct": "https://drive.google.com/drive/folders/1lKblD9xKxs6ACkyJXIPhN270Si7B58sP" 
-                  }
-                ]
-              }
-            ]
-        }, 
-        {
-            "id": 2, 
-            "title": "Thời khóa biểu", 
-            "content": "tkb", 
-            "doc": [
-
-            ]
-        }, 
-        {
-            "id": 3, 
-            "title": "Review giảng viên", 
-            "content": "Profile, link fb review, nhận xét từ các tiền bối, ...", 
-            "doc": [
-
-            ]
-        }, 
-        {
-            "id": 4, 
-            "title": "Thư viện trường", 
-            "content": "Link thư viện trường, sách, giáo trình tìm được, ...", 
-            "doc": [
-
-            ]
-        }, 
-        {
-            "id": 5, 
-            "title": "Social media", 
-            "content": "ytb channel, playlist, link video", 
-            "doc": [
-              {
-                "id": 1, 
-                "title": "bk0st", 
-                "content": "bach khoa 0 so tach", 
-                "links": [
-                  {
-                    "id": 1, 
-                    "text": "fb - Toán và Vật lý", 
-                    "direct": "https://www.facebook.com/bk0st4" 
-                  }, 
-                  {
-                    "id": 2, 
-                    "text": "ytb", 
-                    "direct": "https://www.youtube.com/@bk0st" 
-                  }
-                ]
-              }
-            ]
+          "id": 1,
+          "title": "Web tài liệu hust all",
+          "content": "Có full tài liệu (chắc thế)",
+          "links": [
+            {
+              "id": 1,
+              "text": "tailieuhust",
+              "direct": "https://tailieuhust.com/"
+            }
+          ]
         },
         {
-          "id": 6, 
-          "title": "Tool", 
-          "content": "tool linh tinh", 
-          "doc": [
+          "id": 2,
+          "title": "Đại số",
+          "content": "giáo trình (tailieuhust) + ytb",
+          "links": [
             {
-              "id": 1, 
-              "title": "tool Soạn thời khóa biểu HUST", 
-              "content": "", 
-              "links": [
-                {
-                  "id": 1, 
-                  "text": "web", 
-                  "direct": "https://hungitb.github.io/tkb-hust/" 
-                }
-              ]
-            }, 
+              "id": 1,
+              "text": "giáo trình",
+              "direct": "https://drive.google.com/file/d/1coAstSRi6BRgVbdr1Mvfcg1ZE806sS2F/view"
+            },
             {
-              "id": 2, 
-              "title": "Tool xây dựng kế hoạch học tập", 
-              "content": "", 
-              "links": [
-                {
-                  "id": 1, 
-                  "text": "fb post", 
-                  "direct": "https://facebook.com/sonnopro123/posts/pfbid0cjFA1upMAjXPyxqMJU4aPXLsJLbfXpJnJuExqHkcgeSSEC442ZZCFSYiLQtA7ZQHl" 
-                }
-              ]
+              "id": 2,
+              "text": "ytb: TOÁN CAO CẤP & GIẢI TRÍ",
+              "direct": "https://www.youtube.com/playlist?list=PLsyRn04YK2dHG_UeaxnQY12lRJ8sLt5H4"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Giải tích 1",
+          "content": "giáo trình (tailieuhust) + ytb",
+          "links": [
+            {
+              "id": 1,
+              "text": "giáo trình",
+              "direct": "https://drive.google.com/file/d/14pIV7KndQZKu-l6pME5HYt3GUeoyula5/view"
+            },
+            {
+              "id": 2,
+              "text": "ytb: Huster Channel",
+              "direct": "https://www.youtube.com/playlist?list=PLlX7racszQb4by9cDXEeRPj4Rj1AePZuq"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Tài liệu lớp Đại cương",
+          "content": "Group hỗ trợ học tập bk",
+          "links": [
+            {
+              "id": 1,
+              "text": "fb post",
+              "direct": "https://www.facebook.com/groups/hotrosinhvienontapdaicuong/posts/663523567660013/"
+            },
+            {
+              "id": 2,
+              "text": "gg drive",
+              "direct": "https://drive.google.com/drive/folders/1lKblD9xKxs6ACkyJXIPhN270Si7B58sP"
+            }
+          ]
+        },
+        {
+          "id": "1725546208036",
+          "title": "toán + lý",
+          "content": "thầy Lê Tùng Ưng",
+          "links": [
+            {
+              "id": "1",
+              "text": "ytb: Math University",
+              "direct": "https://www.youtube.com/@ToanCaoCapThayLeTungUng"
+            }
+          ]
+        },
+        {
+          "id": "1725546399312",
+          "title": "CLB Hỗ trợ Học tập Bách khoa",
+          "content": "club học thuật",
+          "links": [
+            {
+              "id": "1",
+              "text": "fb page ",
+              "direct": "https://www.facebook.com/clbhthtbk"
             }
           ]
         }
-    ]
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Thời khóa biểu",
+      "content": "tkb",
+      "doc": []
+    },
+    {
+      "id": "3",
+      "title": "Review giảng viên",
+      "content": "Profile, link fb review, nhận xét từ các tiền bối, ...",
+      "doc": []
+    },
+    {
+      "id": "4",
+      "title": "Thư viện trường",
+      "content": "Link thư viện trường, sách, giáo trình tìm được, ...",
+      "doc": []
+    },
+    {
+      "id": "5",
+      "title": "Social media",
+      "content": "ytb channel, playlist, link video",
+      "doc": [
+        {
+          "id": 1,
+          "title": "bk0st",
+          "content": "bach khoa 0 so tach",
+          "links": [
+            {
+              "id": 1,
+              "text": "fb - Toán và Vật lý",
+              "direct": "https://www.facebook.com/bk0st4"
+            },
+            {
+              "id": 2,
+              "text": "ytb",
+              "direct": "https://www.youtube.com/@bk0st"
+            }
+          ]
+        },
+        {
+          "id": "1725546399316",
+          "title": "CLB Hỗ trợ Học tập Bách khoa",
+          "content": "club học thuật",
+          "links": [
+            {
+              "id": "1",
+              "text": "fb page ",
+              "direct": "https://www.facebook.com/clbhthtbk"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Tool",
+      "content": "tool linh tinh",
+      "doc": [
+        {
+          "id": 1,
+          "title": "tool Soạn thời khóa biểu HUST",
+          "content": "",
+          "links": [
+            {
+              "id": 1,
+              "text": "web",
+              "direct": "https://hungitb.github.io/tkb-hust/"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Tool xây dựng kế hoạch học tập",
+          "content": "",
+          "links": [
+            {
+              "id": 1,
+              "text": "fb post",
+              "direct": "https://facebook.com/sonnopro123/posts/pfbid0cjFA1upMAjXPyxqMJU4aPXLsJLbfXpJnJuExqHkcgeSSEC442ZZCFSYiLQtA7ZQHl"
+            }
+          ]
+        },
+        {
+          "id": "1725546399315",
+          "title": "CLB Hỗ trợ Học tập Bách khoa",
+          "content": "club học thuật",
+          "links": [
+            {
+              "id": "1",
+              "text": "fb page ",
+              "direct": "https://www.facebook.com/clbhthtbk"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
